@@ -1,4 +1,4 @@
-package com.sd.striversdesheet.com.sd;
+package com.practice.dsa.problems;
 
 public class CheckAnagrams {
     public static void main(String[] args) {
