@@ -34,8 +34,13 @@ public class RotateArray {
 
         int a = nums.length - k;
 
+        //STEP 1: reverse the 1st part till k elements
         reverse(nums, 0, a - 1);
+
+        //STEP 2: reverse the 2nd part from kth position to the end of the array
         reverse(nums, a, nums.length - 1);
+
+        //STEP 3: roatate the whole array now
         reverse(nums, 0, nums.length - 1);
     }
 
