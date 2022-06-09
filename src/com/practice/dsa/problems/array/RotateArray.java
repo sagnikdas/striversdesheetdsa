@@ -1,4 +1,4 @@
-package com.practice.dsa.problems;
+package com.practice.dsa.problems.array;
 
 public class RotateArray {
     public static void main(String[] args) {

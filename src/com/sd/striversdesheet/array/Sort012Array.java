@@ -1,4 +1,4 @@
-package com.sd.striversdesheet;
+package com.sd.striversdesheet.array;
 
 import java.sql.SQLOutput;
 

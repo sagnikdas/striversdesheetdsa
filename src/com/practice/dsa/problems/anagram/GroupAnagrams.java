@@ -1,4 +1,4 @@
-package com.practice.dsa.problems;
+package com.practice.dsa.problems.anagram;
 
 import java.util.*;
 

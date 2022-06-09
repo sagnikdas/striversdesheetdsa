@@ -1,4 +1,4 @@
-package com.practice.dsa.problems;
+package com.practice.dsa.problems.anagram;
 
 public class CheckAnagrams {
     public static void main(String[] args) {
